@@ -6,7 +6,7 @@
     "email": "",
     "phone": "",
     "website": "https://github.com/approximata",
-    "summary": "Over the past 8 years I have worked in IT industry. Since 2016 I have been working as a developer I have continuously challenged myself with new languages, frameworks and methodologies. I love clean code and TDD.",
+    "summary": "Over the past 8 years I have worked in IT industry. Since 2016 I have been working as a developer I've continuously challenged myself with new languages, frameworks and methodologies. I love clean code and TDD.",
     "location": {
       "address": "Hungary",
       "postalCode": "1025",
@@ -24,6 +24,11 @@
         "network": "Github",
         "username": "approximata",
         "url": ""
+      },
+      {
+        "network": "Linkedin",
+        "username": "kbmcv",
+        "url": ""
       }
     ]
   },
@@ -34,7 +39,7 @@
       "website": "http://saltech-consulting.com/",
       "startDate": "2016-09-01",
       "endDate": "",
-      "summary": "Develop enterprise application in Pega Platform. Build end to end web application to the customers. Desing and develop and coding to implement processes APIs and database structures.",
+      "summary": "Develop enterprise application in Pega Platform. Build end to end web application to the customers. Desing and develop and coding to implement processes APIs and database structures. And learn a lot.",
       "highlights": []
     },
     {
@@ -43,7 +48,7 @@
       "website": "http://www.nexon.hu/",
       "startDate": "2010-03-01",
       "endDate": "2016-05-01",
-      "summary": "Service development, improve service process and quality. Analysis, design new process procedures and methodologies. ",
+      "summary": "Service development, improve service process and quality. Design web based communication channel to the services. ",
       "highlights": []
     }
   ],
@@ -55,15 +60,6 @@
   ],
   "education": [
     {
-      "institution": "Szent Istvan University",
-      "area": "Economics",
-      "studyType": "MsC",
-      "startDate": "2002-09-01",
-      "endDate": "2009-07-01",
-      "gpa": "",
-      "courses": []
-    },
-    {
       "institution": "Greenfox Academy",
       "area": "Web Development",
       "studyType": "",
@@ -71,11 +67,38 @@
       "endDate": "2016-09-01",
       "gpa": "",
       "courses": []
+    },
+    {
+      "institution": "Szent Istvan University",
+      "area": "Economics",
+      "studyType": "MsC",
+      "startDate": "2002-09-01",
+      "endDate": "2009-07-01",
+      "gpa": "",
+      "courses": []
     }
-
   ],
   "awards": [],
   "publications": [],
+  "certificates": [
+    {
+      "institution": "Stanford University MOOC",
+      "certificateName": "Relational Algebra and SQL"
+    },
+    {
+      "institution": "Stanford University MOOC",
+      "certificateName": "MITx: 6.00.1x Introduction to Computer Science and Programming Using Python EDX"
+    },
+    {
+      "institution": "Stanford University MOOC",
+      "certificateName": "MITx: 6.00.2x Introduction to Computational Thinking and Data Science EDX"
+    },
+    {
+      "institution": "Udemy",
+      "certificateName": "The Complete Product Management Course"
+    }
+
+  ],
   "skills": [
     {
       "name": "Web Development",
@@ -95,6 +118,7 @@
         "Git",
         "Jira",
         "Pega",
+        "Python",
         "aws"
       ]
     }
