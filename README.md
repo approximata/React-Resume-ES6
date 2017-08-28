@@ -1,1 +1,4 @@
-This repo contains the code that is used to create my resume site [jonbloomer.com.au](http://jonbloomer.com.au). Originally I built this app using Gulp but I was still fairly new to React development, now that I have a lot more experience I thought it was time to revisit this app and build it with Webpack. I used Facebook's excellent boilerplate [Create React App](https://github.com/facebookincubator/create-react-app) and enhanced it with the extra tools that I needed.
+This repo forked from [React-Resume-ES6](https://github.com/freaksauce/React-Resume-ES6).
+The following changes made during the editing of the code base:
+* Change var to const and let  
+* Content
