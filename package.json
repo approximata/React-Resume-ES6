@@ -62,7 +62,7 @@
     "react-dom": "^15.4.1"
   },
   "scripts": {
-    "startdev": "node scripts/start.js",
+    "init": "node scripts/start.js",
     "build": "node scripts/build.js",
     "test": "node scripts/test.js --env=jsdom",
     "start": "node server.js"
