@@ -62,10 +62,10 @@
     "react-dom": "^15.4.1"
   },
   "scripts": {
-    "start": "node scripts/start.js",
+    "startdev": "node scripts/start.js",
     "build": "node scripts/build.js",
     "test": "node scripts/test.js --env=jsdom",
-    "server": "node server.js"
+    "start": "node server.js"
   },
   "jest": {
     "moduleFileExtensions": [
