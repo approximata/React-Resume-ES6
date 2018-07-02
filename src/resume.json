@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Mate Kovacs Bodor",
-    "label": "Junior Software Engineer",
+    "label": "Software Engineer",
     "picture": "./profilePhoto.jpg",
     "email": "",
     "phone": "",
@@ -34,11 +34,20 @@
   },
   "work": [
     {
+      "company": "Realeyes ",
+      "position": "Software Engineer",
+      "website": "https://www.realeyesit.com/",
+      "startDate": "2017-10-01",
+      "endDate": "",
+      "summary": "Develop web application for data processing. Design develop coding to implement react redux based webapplication. Learn a lot.",
+      "highlights": []
+    },
+    {
       "company": "Saltech Consuting",
       "position": "Software Engineer",
       "website": "http://saltech-consulting.com/",
       "startDate": "2016-09-01",
-      "endDate": "",
+      "endDate": "2017-09-30",
       "summary": "Develop enterprise application in Pega Platform. Build end to end web application to the customers. Design and develop and coding to implement processes APIs and database structures. And learn a lot.",
       "highlights": []
     },
@@ -48,7 +57,7 @@
       "website": "http://www.nexon.hu/",
       "startDate": "2010-03-01",
       "endDate": "2016-05-01",
-      "summary": "Service development, improve service process and quality. Design web based communication channel to the services. ",
+      "summary": "Service development, improve service process and quality. Project management. Product management. Design web based communication channel to the services. ",
       "highlights": []
     }
   ],
