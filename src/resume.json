@@ -6,7 +6,7 @@
     "email": "",
     "phone": "",
     "website": "https://github.com/approximata",
-    "summary": "Over the past 8 years I have worked in IT industry. Since 2016 I have been working as a developer I've continuously challenged myself with new languages, frameworks and methodologies. I love clean code TDD and react.",
+    "summary": "Over the past 8 years I have worked in IT industry. Since 2016 I have been working as a developer I've continuously challenged myself with new languages, frameworks and methodologies both front and backend side. Recently my main focus is on UX/UI and Service design and how to apply these on the frontend side",
     "location": {
       "address": "Hungary",
       "postalCode": "1025",
@@ -39,7 +39,7 @@
       "website": "https://www.realeyesit.com/",
       "startDate": "2017-10-01",
       "endDate": "",
-      "summary": "Develop web application for data processing. Design develop coding to implement react redux based webapplication. Learn a lot.",
+      "summary": "Develop web application for data collection and data visualiation. Mostly work with React Typescript and vanilla js on front end side and C# with aws infrastrucure on back end side",
       "highlights": []
     },
     {
@@ -48,7 +48,7 @@
       "website": "http://saltech-consulting.com/",
       "startDate": "2016-09-01",
       "endDate": "2017-09-30",
-      "summary": "Develop enterprise application in Pega Platform. Build end to end web application to the customers. Design and develop and coding to implement processes APIs and database structures. And learn a lot.",
+      "summary": "Develop enterprise application in Pega Platform. Build end to end web application to the customers.",
       "highlights": []
     },
     {
@@ -68,6 +68,16 @@
     }
   ],
   "education": [
+    {
+      "institution": "MOME Moholy-Nagy University of Art and Design",
+      "area": "Service Design Expert",
+      "studyType": "",
+      "startDate": "2020-03-01",
+      "endDate": "2020-10-01",
+      "gpa": "",
+      "courses": []
+    },
+
     {
       "institution": "Greenfox Academy",
       "area": "Web Development",
@@ -111,24 +121,24 @@
   "skills": [
     {
       "name": "Web Development",
-      "level": "Junior",
+      "level": "Medior",
       "keywords": [
+        "UX",
         "HTML",
         "CSS",
         "Javascript",
-        "ES2015",
+        "ES2019",
         "React",
         "Redux",
+        "TypeScript",
         "Babel",
         "Webpack",
         "Bootstrap",
-        "Node",
         "SQL",
         "Git",
         "Jira",
-        "Pega",
-        "Python",
-        "aws"
+        "aws",
+        "C#"
       ]
     }
   ],
@@ -152,7 +162,7 @@
       "keywords": []
     },
     {
-      "name": "Conemporary Art",
+      "name": "Contemporary Art",
       "keywords": []
     },
     {
