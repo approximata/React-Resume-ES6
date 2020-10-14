@@ -6,7 +6,7 @@
     "email": "",
     "phone": "",
     "website": "https://github.com/approximata",
-    "summary": "Over the past 8 years I have worked in IT industry. Since 2016 I have been working as a developer I've continuously challenged myself with new languages, frameworks and methodologies both front and backend side. Recently my main focus is on UX/UI and Service design and how to apply these on the frontend side",
+    "summary": "Over the past 8 years I have worked in IT industry. Since 2016 I have been working as a developer I've continuously challenged myself with new languages, frameworks and methodologies both front and backend side. Recently my main focus is on UX/UI and Service design and how to apply these principles on the frontend side",
     "location": {
       "address": "Hungary",
       "postalCode": "1025",
@@ -39,7 +39,7 @@
       "website": "https://www.realeyesit.com/",
       "startDate": "2017-10-01",
       "endDate": "",
-      "summary": "Develop web application for data collection and data visualiation. Mostly work with React Typescript and vanilla js on front end side and C# with aws infrastrucure on back end side",
+      "summary": "Develop web application for data collection and data visualiation. Mostly work with React with TypeScript and Vanilla JS on frontend side and C# with aws infrastrucure on backend side",
       "highlights": []
     },
     {
@@ -57,7 +57,7 @@
       "website": "http://www.nexon.hu/",
       "startDate": "2010-03-01",
       "endDate": "2016-05-01",
-      "summary": "Service development, improve service process and quality. Project management. Product management. Design web based communication channel to the services. ",
+      "summary": "Service development, improve service process and quality. Project management.",
       "highlights": []
     }
   ],
@@ -100,18 +100,6 @@
   "awards": [],
   "publications": [],
   "certificates": [
-    {
-      "institution": "Stanford University MOOC",
-      "certificateName": "Relational Algebra and SQL"
-    },
-    {
-      "institution": "Stanford University MOOC",
-      "certificateName": "MITx: 6.00.1x Introduction to Computer Science and Programming Using Python EDX"
-    },
-    {
-      "institution": "Stanford University MOOC",
-      "certificateName": "MITx: 6.00.2x Introduction to Computational Thinking and Data Science EDX"
-    },
     {
       "institution": "Udemy",
       "certificateName": "The Complete Product Management Course"
