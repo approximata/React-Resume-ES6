@@ -13,7 +13,7 @@ const Certificate = props => {
 
   	return (
   	  <section className="certificate">
-        <h2 className="text-uppercase"><i className="fa fa-lg fa-certificate"></i> Certificates</h2>
+        <h2 className="text-uppercase"><i className="fa fa-lg fa-certificate"></i> Recent courses</h2>
         {getCertificate}
       </section>
   	)

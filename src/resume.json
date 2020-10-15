@@ -1,12 +1,12 @@
 {
   "basics": {
     "name": "Mate Kovacs Bodor",
-    "label": "Software Engineer",
+    "label": "Web Application Developer",
     "picture": "./profilePhoto.jpg",
     "email": "",
     "phone": "",
     "website": "https://github.com/approximata",
-    "summary": "Over the past 8 years I have worked in IT industry. Since 2016 I have been working as a developer I've continuously challenged myself with new languages, frameworks and methodologies both front and backend side. Recently my main focus is on UX/UI and Service design and how to apply these principles on the frontend side",
+    "summary": "Over the past 8 years I have worked in IT industry. Since 2016 I have been working as a developer I've continuously challenged myself with new languages, frameworks and methodologies both front and backend side. Recently my main focus is on UX/UI and Service design and how to apply these principles on the frontend side. I'm one of the main organizer of Let's code BP meetup group.",
     "location": {
       "address": "Hungary",
       "postalCode": "1025",
@@ -39,7 +39,7 @@
       "website": "https://www.realeyesit.com/",
       "startDate": "2017-10-01",
       "endDate": "",
-      "summary": "Develop web application for data collection and data visualiation. Mostly work with React with TypeScript and Vanilla JS on frontend side and C# with aws infrastrucure on backend side",
+      "summary": "Develop web application for data collection and data visualiation. Mostly work with React in TypeScript and Vanilla JS on frontend side and C# on aws infrastrucure at backend side",
       "highlights": []
     },
     {
@@ -77,7 +77,6 @@
       "gpa": "",
       "courses": []
     },
-
     {
       "institution": "Greenfox Academy",
       "area": "Web Development",
@@ -103,8 +102,11 @@
     {
       "institution": "Udemy",
       "certificateName": "The Complete Product Management Course"
+    },
+    {
+      "institution": "Wes Bos",
+      "certificateName": "Javascript30 | ES6 for Everyone | Fullstack Advanced React and GraphQL"
     }
-
   ],
   "skills": [
     {
